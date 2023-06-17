@@ -13,4 +13,4 @@ This documentation is useful for following reasons:
 + After 360 epochs, the loss is within 1 digit, but sometimes outliers could reach about 15 people. 
 -------------------------
 
-![alt text](https://github.com/[Harvendois]/[CrowdCount]/blob/[main]/actual try with a different pci.png?raw=true)
+![alt text](https://github.com/[Harvendois]/[CrowdCount]/blob/[main]/actual_try_with_a_different_pci.png?raw=true)
