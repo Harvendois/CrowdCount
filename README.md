@@ -11,3 +11,6 @@ This documentation is useful for following reasons:
 + After about 280ish epochs, the loss barely decreases. Sharp reduction of loss was seen after 30-50 epochs. 
 + I think the loss was within 30 people (even with the outliers) when it reached 150 epochs. That could be good enough. 
 + After 360 epochs, the loss is within 1 digit, but sometimes outliers could reach about 15 people. 
+-------------------------
+
+![alt text](https://github.com/[Harvendois]/[CrowdCount]/blob/[main]/actual try with a different pci.png?raw=true)
