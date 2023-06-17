@@ -14,3 +14,8 @@ This documentation is useful for following reasons:
 -------------------------
 
 ![alt text](https://github.com/[Harvendois]/[CrowdCount]/blob/[main]//CrowdCountEpoch358.png?raw=true)
+
+to run training in terminal vsc terminal
+cd CSRNet-pytorch
+python train.py part_B_train.json part_B_val.json 0 0 
+
