@@ -8,6 +8,6 @@ This documentation is useful for following reasons:
 ## Information: 
 + I am using a laptop with RTX3050, and it took my laptop about 40 hours to train 360~epochs.
 + The MAE after validation gave me about 69 MAE, better than 75 MAE given by AnalyticsVidhya. 
-+ After about 280~epochs, the loss barely decreases. Sharp reduction of loss was seen after 30~50 epochs. 
++ After about 280ish epochs, the loss barely decreases. Sharp reduction of loss was seen after 30-50 epochs. 
 + I think the loss was within 30 people (even with the outliers) when it reached 150 epochs. That could be good enough. 
 + After 360 epochs, the loss is within 1 digit, but sometimes outliers could reach about 15 people. 
