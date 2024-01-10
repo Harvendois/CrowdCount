@@ -1,4 +1,4 @@
-# Crowd Count by Cho
+# Crowd Count
 Hi, this is a documentation of my use of the Crowd Counting Computer Vision project, provided by @Leeyeehoo and directed by AnalyticsVidhya's article. 
 This documentation is useful for following reasons: 
 1. It has already corrected @Leeyeehoo's project according to AnalyticsVidhya's article and also where AnalyticsVidhya missed. 
